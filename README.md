@@ -13,3 +13,7 @@
 ### What You Can Do With This
 
 You can **1** ``EDIT`` **2** ``MODIFY``
+
+### CONTRIBUTING
+
+**DEV** ``Prematurelol`` **------>** ``Pre`` **AND** ``edik1045`` **------>** ``edik1045_mp3``
